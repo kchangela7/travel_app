@@ -6,7 +6,6 @@ const Map<String, String> countries = {
   "AI": "Anguilla",
   "AL": "Albania",
   "AM": "Armenia",
-  "AN": "Netherlands Antilles",
   "AO": "Angola",
   "AR": "Argentina",
   "AS": "American Samoa",
