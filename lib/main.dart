@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData(
         visualDensity: VisualDensity.adaptivePlatformDensity,
+        fontFamily: "Lato"
       ),
       home: Home(),
     );
