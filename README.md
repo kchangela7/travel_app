@@ -1,4 +1,4 @@
-# travel_app
+# Travel App
 
 A Flutter Project
 
